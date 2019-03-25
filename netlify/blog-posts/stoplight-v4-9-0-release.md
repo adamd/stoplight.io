@@ -11,7 +11,8 @@ title: Stoplight v4.9.0 Release
 color: black
 tabs:
   - {}
-disqus: {}
+disqus:
+  enabled: true
 actionBar:
   buttons:
     - color: purple
@@ -20,4 +21,8 @@ meta:
   robots: 'index, follow'
   twitter: {}
 ---
+## New 🚀
 
+## Enhancements 💪
+
+## Fixes 🔧
